@@ -1,9 +1,13 @@
 _repo: The-Legendary-History-of-the-Cross-A-Series-of-Sixty-four-Woodcuts-from-a-Dutch-Book-Publishe__46800
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Veldener
     gutenberg_agent_id: '43960'
     url: http://www.gutenberg.org/2009/agents/43960
+covers:
+- cover_type: archival
+  image_path: 46800-h/images/cover.jpg
 creator:
   author:
     agent_name: Ashton, John
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '9006'
     url: http://www.gutenberg.org/2009/agents/9006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46800#The-Legendary-History-of-the-Cross-A-Series-of-Sixty-four-Woodcuts-from-a-Dutch-Book-Publishe_
 gutenberg_issued: '2014-09-07'
 gutenberg_type: Text
 identifiers:
